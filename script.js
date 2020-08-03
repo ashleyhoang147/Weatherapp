@@ -1,0 +1,1 @@
+var nameCity = document.getElementById("Cityname").value;
